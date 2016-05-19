@@ -8,3 +8,11 @@ The purpose of this project is to create an npm package that could help kick sta
 * use common packages and patterns: express, bootstrap, angular
 * real time: use socket.io for real time integration between frontend and backend
 * inherit from user-provided entities - client profile etc.
+* nocrm.json configuration
+* common workflows: gulp, bower
+
+## Kick start
+* npm install
+* modify your models
+* modify views
+* add business logic
