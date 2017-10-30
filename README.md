@@ -1,18 +1,24 @@
 # nocrm - a CRM system written in node.js
 
 ## Purpose
-The purpose of this project is to create an npm package that could help kick start a CRM development project in node.js
+The purpose of this project is to create a CRM based on NodeJS and React. This CRM should be:
+- flexible
+- easy to use
+- easy to scale
 
 ## Key features
-* open-source (MIT licence), ready for enterprise
-* use common packages and patterns: express, bootstrap, angular
-* real time: use socket.io for real time integration between frontend and backend
-* inherit from user-provided entities - client profile etc.
-* nocrm.json configuration
-* common workflows: gulp, bower
+### Business
+* Easy to use customizable interface
+* All data in one place
+* The only CRM design with enterprise in mind
+### Technical
+* NodeJS for backend
+* React and Redux for frontend
+* GraphQL for data exchange
+* Tarantool for data storage
+* Bootstrap for UI
+* Docker for management
+### Support
+* open-source (MIT licence)
+* consultancy TBD
 
-## Kick start
-* npm install
-* modify your models
-* modify views
-* add business logic
